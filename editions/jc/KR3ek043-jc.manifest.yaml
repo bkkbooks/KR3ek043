@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR3ek043/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek043/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 發背對口治訣論
+  identifiers:
+    krp: KR3ek043
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek043.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek043_000-jc.yaml, hash: 'sha256:0bb1c8381814bd6ebe321b0126b6ebcb65def4d22f44022734864b0a4d015265'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek043_000-jc.markers.yaml, hash: 'sha256:811cc961a6f96657beb9960e8453ff38b4509021e7911c9bc66e1c60b8b51cfa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek043_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 514
+  label: 謝氏發背對口治訣論序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek043_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 2262
+  label: 總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek043_jc_000-d4.h1s1
+    span:
+    - body
+    - 2262
+    - 3426
+  label: 附謝氏外科秘法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek043_jc_000-d5.h1s1
+    span:
+    - body
+    - 3426
+    - 5107
+  label: 附對口方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek043_jc_000-d6.h1s1
+    span:
+    - body
+    - 5107
+    - 6616
+  label: 附楊州存濟堂藥局膏藥方
+  type: section
+  level: 1
+hash: sha256:e676072dc42ef141ba79332feae5137ae9848114fec133cd1392bc0351c06589
