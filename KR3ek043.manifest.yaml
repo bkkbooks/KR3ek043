@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek043_000.yaml, hash: 'sha256:e8f39ef176fdced5f6a2a79ee7f7a267f31cfdd27a3e16182d17c55bb40484b1'}
+  - {seq: 0, filename: KR3ek043_000.yaml, hash: 'sha256:0bb1c8381814bd6ebe321b0126b6ebcb65def4d22f44022734864b0a4d015265'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek043_000.markers.yaml, hash: 'sha256:0c16c0683308c7812cf1ae58d6a228bd5c284fcea532e9df30bedc82f223d7a6'}
+  - {seq: 0, role: markers, filename: assets/KR3ek043_000.markers.yaml, hash: 'sha256:f2558a2986c91140984783aae67313f909a36fd3c19bcae56d054d96d5e9c428'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,7 +71,4 @@ table_of_contents:
   label: 附楊州存濟堂藥局膏藥方
   type: section
   level: 1
-hash: sha256:47b32d7a4698d199eca37b0ba10d498578aa86d6137eaa6183e7fd311838a957
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:95a1dbdfcb192fb8c99cd814805f9d21d7e7db72567e751ffc8ac10a63eed160
