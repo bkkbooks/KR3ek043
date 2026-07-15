@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ek043/v1
 canonical_location: https://kanripo.org/bkk/KR3ek043/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 發背對口治訣論
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek043_000.yaml, hash: 'sha256:0bb1c8381814bd6ebe321b0126b6ebcb65def4d22f44022734864b0a4d015265'}
+  - {seq: 0, filename: KR3ek043_000.yaml, hash: 'sha256:14180a662d1271a7070f389484868c22d89a562ff92461a83c736f24f7a7da82'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek043_000.markers.yaml, hash: 'sha256:f2558a2986c91140984783aae67313f909a36fd3c19bcae56d054d96d5e9c428'}
+  - {seq: 0, role: markers, filename: assets/KR3ek043_000.markers.yaml, hash: 'sha256:9b93b9f709b3a005048c127d19fc6f0cedf8d50d9a08e3da9501d5834e7e4421'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,4 +71,7 @@ table_of_contents:
   label: 附楊州存濟堂藥局膏藥方
   type: section
   level: 1
-hash: sha256:95a1dbdfcb192fb8c99cd814805f9d21d7e7db72567e751ffc8ac10a63eed160
+hash: sha256:17c2990606c90e4eabf8b959323a4c60dc80d6930a8da97d77cb40651016b067
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
